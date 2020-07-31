@@ -6,7 +6,7 @@ Android application with live weather and news updates
   
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88992624-c7f7f700-d298-11ea-923c-53c34c426e21.png">
 
-<img width="200" src="https://user-images.githubusercontent.com/60020847/88992752-01c8fd80-d299-11ea-85e6-db7900bcfe7d.png">
+<img width="200" src="https://user-images.githubusercontent.com/60020847/88992817-29b86100-d299-11ea-9970-3e595495bd78.png">
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88992624-c7f7f700-d298-11ea-923c-53c34c426e21.png">
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88992624-c7f7f700-d298-11ea-923c-53c34c426e21.png">

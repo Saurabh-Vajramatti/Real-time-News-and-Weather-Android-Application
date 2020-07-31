@@ -54,13 +54,9 @@ Android application with live weather and news updates
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88994214-b1539f00-d29c-11ea-96bf-4b9638aa5cc2.png">
 
-<img width="200" src="https://user-images.githubusercontent.com/60020847/88994228-b87aad00-d29c-11ea-8465-feff64b666f9.png">
-
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88994236-bdd7f780-d29c-11ea-8b0a-2925d01c06ea.png">
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88994254-c6c8c900-d29c-11ea-95a1-dccacd67abf9.png">
-
-<img width="200" src="https://user-images.githubusercontent.com/60020847/88994261-ccbeaa00-d29c-11ea-936c-627aadd9010d.png">
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88994339-f7106780-d29c-11ea-8418-9c7378266c5c.png">
 

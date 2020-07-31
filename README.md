@@ -20,7 +20,7 @@ Android application with live weather and news updates
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88993779-b82de200-d29b-11ea-802f-7dfc449d4d42.png">
 
-<img width="200" src="https://user-images.githubusercontent.com/60020847/88993779-b82de200-d29b-11ea-802f-7dfc449d4d42.png">
+<img width="200" src="https://user-images.githubusercontent.com/60020847/88993884-f7f4c980-d29b-11ea-8b56-9d3278187987.png">
 
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88992624-c7f7f700-d298-11ea-923c-53c34c426e21.png">
 <img width="200" src="https://user-images.githubusercontent.com/60020847/88992624-c7f7f700-d298-11ea-923c-53c34c426e21.png">

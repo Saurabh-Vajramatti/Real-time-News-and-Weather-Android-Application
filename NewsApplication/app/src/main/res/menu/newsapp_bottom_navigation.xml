@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_tab"
+        android:icon="@drawable/ic_home_24px"
+        android:title="@string/home_tab_string"/>
+
+    <item
+        android:id="@+id/headline_tab"
+        android:icon="@drawable/icon_news"
+        android:title="@string/headlines_tab_string"/>
+
+    <item
+        android:id="@+id/trending_tab"
+        android:icon="@drawable/ic_trending_up_24px"
+        android:title="@string/trending_tab_string"/>
+
+    <item
+        android:id="@+id/bookmark_tab"
+        android:icon="@drawable/ic_bookmarks_24px"
+        android:title="@string/bookmark_tab_string"/>
+
+</menu>

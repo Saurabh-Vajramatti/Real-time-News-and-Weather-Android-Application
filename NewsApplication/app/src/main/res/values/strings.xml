@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="home_tab_string">Home</string>
+    <string name="headlines_tab_string">Headlines</string>
+    <string name="trending_tab_string">Trending</string>
+    <string name="bookmark_tab_string">Bookmark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
